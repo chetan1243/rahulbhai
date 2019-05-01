@@ -78,4 +78,4 @@ client.on("message", msg => {
     msg.reply(ca + " is " + eval(ca).toFixed(2));
   }
 });
-client.login = process.env.token;
+client.login("NTczMTMyNzczOTM0NzU5OTQ4.XMnw9w.G5B4n9LBHCFLdzQ3UpvR6TcA0Ss");
